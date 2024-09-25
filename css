@@ -1,0 +1,231 @@
+﻿@font-face {
+  font-family: 'Andika';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/andika/v25/mem9Ya6iyW-Lwqgwb4YScr0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Andika';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/andika/v25/mem6Ya6iyW-Lwqgwb46pV60Zdcg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Andika';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/andika/v25/mem_Ya6iyW-LwqgwarYV.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Andika';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/andika/v25/mem8Ya6iyW-Lwqg40ZMFVZ0e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bowlby One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/bowlbyone/v23/taiPGmVuC4y96PFeqp8sqomI-Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bowlby One SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/bowlbyonesc/v25/DtVlJxerQqQm37tzN3wMug9P_g_2pw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bungee';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/bungee/v14/N0bU2SZBIuF2PU_0DXRw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RTplkLCNG.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/comicneue/v8/4UaFrEJDsxBrF37olUeD96_Z5bt0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RXp5kLCNG.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/comicneue/v8/4UaErEJDsxBrF37olUeD_wHL8pxUKw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/comicneue/v8/4UaHrEJDsxBrF37olUeD96rp4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/comicneue/v8/4UaErEJDsxBrF37olUeD_xHM8pxUKw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0EBIokmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBIokmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIokmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIokmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIokmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIokmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBIokmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBIokmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJDVBNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwjJTVBNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJTVBNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mxEIjVBNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwjIjVBNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwKIjVBNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nothing You Could Do';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/nothingyoucoulddo/v19/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnV4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rammetto One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/rammettoone/v19/LhWiMV3HOfMbMetJG3lQDppNNfGY.ttf) format('truetype');
+}
